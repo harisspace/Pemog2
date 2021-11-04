@@ -1,9 +1,5 @@
 #include <iostream>
 #include <string>
-
-using namespace std;
-
-#include <iostream>
 #include <class.h>
 
 using namespace std;
